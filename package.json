@@ -1,0 +1,24 @@
+{
+	"name": "generator-react-sass-boilerplate",
+	"version": "1.0.0",
+	"description": "A react wirh sass boilerplate generator.",
+	"files": [
+		"generators"
+	],
+	"keywords": [
+		"yeoman-generator"
+	],
+	"dependencies": {
+		"yeoman-generator": "^5.7.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ZaidMarrie/generator-react-sass-boilerplate.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ZaidMarrie/generator-react-sass-boilerplate/issues"
+	},
+	"homepage": "https://github.com/ZaidMarrie/generator-react-sass-boilerplate#readme"
+}
