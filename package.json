@@ -15,7 +15,7 @@
 		"type": "git",
 		"url": "git+https://github.com/ZaidMarrie/generator-react-sass-boilerplate.git"
 	},
-	"author": "",
+	"author": "Zaid Marrie",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/ZaidMarrie/generator-react-sass-boilerplate/issues"
