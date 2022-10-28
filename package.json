@@ -1,5 +1,5 @@
 {
-	"name": "generator-react-sass-boilerplate",
+	"name": "generator-vite-react-sass-boilerplate",
 	"version": "1.0.0",
 	"description": "A react wirh sass boilerplate generator.",
 	"files": [
@@ -13,12 +13,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ZaidMarrie/generator-react-sass-boilerplate.git"
+		"url": "git+https://github.com/ZaidMarrie/generator-vite-react-sass-boilerplate.git"
 	},
 	"author": "Zaid Marrie",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/ZaidMarrie/generator-react-sass-boilerplate/issues"
+		"url": "https://github.com/ZaidMarrie/generator-vite-react-sass-boilerplate/issues"
 	},
-	"homepage": "https://github.com/ZaidMarrie/generator-react-sass-boilerplate#readme"
+	"homepage": "https://github.com/ZaidMarrie/generator-vite-react-sass-boilerplate#readme"
 }
