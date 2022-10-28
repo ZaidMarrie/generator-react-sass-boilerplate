@@ -1,15 +1,31 @@
-# React + Sass Boilerplate
+# React with Sass Boilerplate (Vite)
 
-A Yeoman generator that creates a minimal Gulp and Sass front-end workflow.
+A Yeoman generator that generates starter files for a React & Sass project setup with the Vite build tool.
 
-Based off of Nando Moreirame's Gulp generator 🙏🏼
+## Installation
 
-## Instructions
+Install Yeoman globally:
 
-Install Yeoman globally: `npm install -g yo`
+```
+npm install -g yo
+```
 
-Then install the Gulp + Sass boilerplate generator globally: `npm install -g generator-react-sass-boilerplate`
+Install the _Vite React Sass Boilerplate_ generator globally:
 
-Navigate to a directory you want to generate the files in, then run `yo react-sass-boilerplate`
+```
+npm install -g generator-react-sass-boilerplate
+```
 
-Then in the project root, run the website by running `npm run dev`.
+## Usage
+
+Navigate to a directory you want to generate the files in, then run:
+
+```
+yo generator-vite-react-sass
+```
+
+To start the development server run:
+
+```
+npm run dev
+```
