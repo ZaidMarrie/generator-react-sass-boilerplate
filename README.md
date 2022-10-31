@@ -13,7 +13,7 @@ npm install -g yo
 Install the _Vite React Sass Boilerplate_ generator globally:
 
 ```
-npm install -g generator-react-sass-boilerplate
+npm install -g generator-vite-react-sass-boilerplate
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ npm install -g generator-react-sass-boilerplate
 Navigate to a directory you want to generate the files in, then run:
 
 ```
-yo generator-vite-react-sass
+yo generator-vite-react-sass-boilerplate
 ```
 
 To start the development server run:
