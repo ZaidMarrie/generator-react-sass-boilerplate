@@ -1,7 +1,7 @@
 {
 	"name": "generator-vite-react-sass-boilerplate",
 	"version": "1.0.1",
-	"description": "A react wirh sass boilerplate generator.",
+	"description": "A React and Sass with Vite boilerplate generator.",
 	"files": [
 		"generators"
 	],
